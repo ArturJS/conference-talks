@@ -1,7 +1,5 @@
 # Conference talks
 
-## Materials for HolyJS and others public talks
+# [Machine learning and JavaScript. Unleashing the power of sentiment analysis](./ml-sentiment-holyjs/README.md)
+https://holyjs-piter.ru/2021/spb/talks/3sxk1auotoycuwdv6hkf0r/
 
-### Grid Dynamics AI talk as a basis
-
-https://docs.google.com/presentation/d/1T-v2AhRo1qbuJH01oDzYMXSz7DZARfBkRxkUGxUxRAU/edit#slide=id.g4dfce81f19_0_45
