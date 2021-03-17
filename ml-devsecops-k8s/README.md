@@ -2,12 +2,19 @@
 
 The plan:
 - quick into to ML
+- How ML training works step-by-step + live demo video
 - anomaly detection
 - malware analysis
 - network traffic analysis
 - integration with K8s
 
+### Presentation
+
+https://docs.google.com/presentation/d/1C5Qy_9XC1_WiwjXdCDFJPeUoffET7VQ6MYM4QYEw8E0/edit#slide=id.g4dfce81f19_0_45
+
 #### Useful links:
+
+[10 ways machine learning can optimize DevOps](https://techbeacon.com/enterprise-it/10-ways-machine-learning-can-optimize-devops)
 
 [How machine learning works](https://www.ibm.com/cloud/learn/machine-learning#toc-how-machin-NoVMSZI_)
 
