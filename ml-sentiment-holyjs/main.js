@@ -1,8 +1,8 @@
 const { Select } = require('enquirer');
-const simpleNetwork = require('./examples/simple-network');
+const simpleNeuralNetwork = require('./examples/simple-neural-network');
 
 const exampleNeuralNetworks = {
-  'simple-network': simpleNetwork,
+  'simple-neural-network': simpleNeuralNetwork,
   'sentiment-ai': {
     run() {
       throw new Error('Error: ToDo Implement :-/');
