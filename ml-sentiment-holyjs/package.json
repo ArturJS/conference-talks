@@ -17,8 +17,6 @@
     "@tensorflow-models/mobilenet": "^2.1.0",
     "@tensorflow/tfjs": "^3.3.0",
     "@tensorflow/tfjs-node": "^3.3.0",
-    "enquirer": "^2.3.6",
-    "image-size": "^0.9.7",
-    "jimp": "^0.16.1"
+    "enquirer": "^2.3.6"
   }
 }
