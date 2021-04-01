@@ -8,7 +8,7 @@ const {
 } = require('./utils');
 
 class SimpleNeuralNetwork {
-  constructor(a = random(-100, 100), b = random(-100, 100)) {
+  constructor(a, b) {
     this.a = a;
     this.b = b;
     this.logger = {
