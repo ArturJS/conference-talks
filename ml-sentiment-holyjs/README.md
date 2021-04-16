@@ -7,3 +7,6 @@ https://docs.google.com/presentation/d/1gsZwliYOIOIBauKH0dqrxXwzy02WGKGJKzaD89MN
 
 ### The library for sentiment analysis
 https://github.com/ArturJS/sentiment-ai
+
+### Misc
+https://colab.research.google.com/gist/ArturJS/d99d5577de1fae3021e5f61650658632/dl_nlp_imdb_lstm.ipynb?hl=en
