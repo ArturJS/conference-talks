@@ -6,7 +6,7 @@
 https://docs.google.com/presentation/d/1gsZwliYOIOIBauKH0dqrxXwzy02WGKGJKzaD89MNKPA/edit#slide=id.g7f1f1a7154_0_949
 
 ### The library for sentiment analysis
-https://github.com/ArturJS/sentiment-ai
+https://github.com/ArturJS/sentiment-ai will be available soon, watch the news on https://twitter.com/ArturN_JS
 
 ### Misc
 LSTM training colab
